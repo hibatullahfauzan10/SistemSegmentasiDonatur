@@ -1,0 +1,12 @@
+
+# File hasil kompilasi Java
+*.class
+
+# Folder hasil kompilasi
+/out/
+/our/
+/src/out/
+
+# File sementara editor
+*.log
+*.tmp

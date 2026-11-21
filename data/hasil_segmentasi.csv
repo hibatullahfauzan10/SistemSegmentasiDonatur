@@ -1,0 +1,5 @@
+id_hasil;id_proses;tanggal_hasil;keterangan
+1;1;2026-11-20T18:30:02.110377900;Hasil segmentasi menggunakan algoritma K-Means
+2;2;2026-11-20T18:30:39.881534700;Hasil segmentasi menggunakan algoritma K-Means
+3;3;2026-11-20T19:06:49.249873600;Hasil segmentasi menggunakan algoritma K-Means
+4;4;2026-11-21T05:35:28.923658900;Hasil segmentasi menggunakan algoritma K-Means
